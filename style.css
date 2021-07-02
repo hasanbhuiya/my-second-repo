@@ -1,0 +1,38 @@
+
+        
+.blog {
+    background-color: royalblue;
+    border: 50px solid yellow ;
+    border-radius: 20px;
+    padding-bottom: 0;
+    padding-left: 50px;
+    padding-right: 30px;
+    padding-top: 50px;
+    /* margin:  40px 10px 100px 200px; */
+    width: 50%;
+    height: 300px;
+    margin: 50px auto;
+    
+   
+
+
+    
+
+}
+
+.blog-title{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 900;
+    
+    
+}
+.blog p{
+    text-align: justify;
+   
+}
+
+.span{color: red;
+   
+}
+
